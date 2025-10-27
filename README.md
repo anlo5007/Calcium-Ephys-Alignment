@@ -6,7 +6,7 @@ These tools are designed to assist in the synchronization, visualization, and qu
 
 ---
 
-## 📁 Repository Contents
+## 📁 Repository Contents in Main folder
 
 ### 1. `align_ephys_video.m`
 
